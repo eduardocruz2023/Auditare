@@ -1,8 +1,7 @@
 import sqlite3
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-import plotly.graph_objs as go
+
 from datetime import datetime
 
 favicon = "static/imagens/icone1.ico"
